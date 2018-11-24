@@ -1,10 +1,12 @@
 <b><font size="+4">Single-Shooting</font></b>
 
 
-This resource sets all automatic weapons to semi-automatic.
+This fixes the only automatic bug on the singleshot fivem resource. 
 
-There's also an implemented gun safety feature. Press K (also, keyboard only) to enable it and you won't be able to fire your weapon.
+Oringal links:
+https://forum.fivem.net/t/release-single-shot-fire-mode-safety-feature/73293/
+https://forum.fivem.net/t/firing-modes-single-shot-burst-mode-full-auto-safety-toggle/72538
 
-This is my modified version of Vespura's Firing Modes.
-
-All credits reserved to him.
+Changes i made:
+Fixed a default value (Changed a 0 to a 2)
+Added Mk2 weapons to the list of weapons.
